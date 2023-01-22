@@ -32,30 +32,30 @@ We categorized the state of the art into four groups: Graph Recurrent Networks (
 |Convolutional neural networks on graphs with fast localized spectral filtering|2016|Neurips (A*)| Defferrard et al.| [link](https://dl.acm.org/doi/abs/10.5555/3157382.3157527)|
 |Semi-supervised classification with graph convolutional networks|2016|Arxiv|Kipf and Welling| [link](https://arxiv.org/abs/1609.02907)|
 |Simplifying graph convolutional networks|2019| ICML(A*)|Wu et al.|[link](https://proceedings.mlr.press/v97/wu19e.html)|
-|Sign: Scalable inception graph neural networks|2020|Arxiv|Rossi et. al|[link](https://arxiv.org/abs/2004.11198)|
-|Hi-gcn: a hierarchical graph convolution network for graph embedding learning of brain network and brain disorders prediction|2020| Computers in Biology and Medicine (Q1)|Jiang et. al| [link](https://www.sciencedirect.com/science/article/abs/pii/S0010482520304273?via%3Dihub)|
-|Graphzoom: A multi-level spectral approach for accurate and scalable graph embedding|2019|ICLR (A*)|Deng at. al|[link](https://par.nsf.gov/servlets/purl/10174291)|
+|Sign: Scalable inception graph neural networks|2020|Arxiv|Rossi et al.|[link](https://arxiv.org/abs/2004.11198)|
+|Hi-gcn: a hierarchical graph convolution network for graph embedding learning of brain network and brain disorders prediction|2020| Computers in Biology and Medicine (Q1)|Jiang et al.| [link](https://www.sciencedirect.com/science/article/abs/pii/S0010482520304273?via%3Dihub)|
+|Graphzoom: A multi-level spectral approach for accurate and scalable graph embedding|2019|ICLR (A*)|Deng et al.|[link](https://par.nsf.gov/servlets/purl/10174291)|
 
 ### Spatial-based
 |  Title   | Year| Venue (Rank) | Authors | Link |
 |  ----    | ----  | ----   | ----   |    ----|
-| Inductive representation learning on large graphs|2017|NIPS (A*)|Hamilton et. al|[link](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html)|
-|FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling|2018|ICLR (A*)|Chen et. al|[link](https://openreview.net/forum?id=rytstxWAW)|
-|Adaptive sampling towards fast graph representation learning|2018|NIPS (A*)|Huang e. al|[link](https://proceedings.neurips.cc/paper/2018/hash/01eee509ee2f68dc6014898c309e86bf-Abstract.html)|
-|GraphSAINT: Graph Sampling Based Inductive Learning Method |2019|ICLR (A*)|Zeng et. al|[link](https://openreview.net/forum?id=BJe8pkHFwS)|
-| Hierarchical bipartite graph neural networks: Towards large-scale e-commerce applications|2020|ICDE (A*)|Li et. al| [link](https://ieeexplore.ieee.org/document/9101846)|
-| Groupinn:Grouping-based interpretable neural network for classification of limited, noisy brain data|2019|SIGKDD (A*)|Yan et. al|[link](https://dl.acm.org/doi/abs/10.1145/3292500.3330921)|
-|Hierarchical graph convolutional networks for semi-supervised node classification|2019|IJCAI (A*)|Hu et. al|[link](https://dl.acm.org/doi/abs/10.5555/3367471.3367673)|
+| Inductive representation learning on large graphs|2017|NIPS (A*)|Hamilton et al.|[link](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html)|
+|FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling|2018|ICLR (A*)|Chen et al.|[link](https://openreview.net/forum?id=rytstxWAW)|
+|Adaptive sampling towards fast graph representation learning|2018|NIPS (A*)|Huang et al.|[link](https://proceedings.neurips.cc/paper/2018/hash/01eee509ee2f68dc6014898c309e86bf-Abstract.html)|
+|GraphSAINT: Graph Sampling Based Inductive Learning Method |2019|ICLR (A*)|Zeng et al.|[link](https://openreview.net/forum?id=BJe8pkHFwS)|
+| Hierarchical bipartite graph neural networks: Towards large-scale e-commerce applications|2020|ICDE (A*)|Li et al.| [link](https://ieeexplore.ieee.org/document/9101846)|
+| Groupinn:Grouping-based interpretable neural network for classification of limited, noisy brain data|2019|SIGKDD (A*)|Yan et al.|[link](https://dl.acm.org/doi/abs/10.1145/3292500.3330921)|
+|Hierarchical graph convolutional networks for semi-supervised node classification|2019|IJCAI (A*)|Hu et al.|[link](https://dl.acm.org/doi/abs/10.5555/3367471.3367673)|
 
 
 ## Graph AutoEncoders (GAEs)
 |  Title   | Year| Venue (Rank) | Authors | Link |
 |  ----    | ----  | ----   | ----   |    ----|
-|A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications|2018|TKDE(A*)|Cai et. al|[link](https://ieeexplore.ieee.org/document/8294302)|
+|A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications|2018|TKDE(A*)|Cai et al.|[link](https://ieeexplore.ieee.org/document/8294302)|
 |Variational graph auto-encoders|2016|Arxiv|Kipf and Welling|[link](https://arxiv.org/abs/1611.07308)|
 |Auto-Encoding Variational Bayes|2013|Arxiv|Kingma and Welling|[link](https://arxiv.org/pdf/1312.6114.pdf)|
-|Variational graph recurrent neural networks|2019|Neurips (A*)|Hajiramazanali et. al|[link](https://proceedings.neurips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)|
-|Grae: Graph recurrent autoencoder for multi-view graph clustering|2021|ACAI|Cai et. al|[link](https://dl.acm.org/doi/10.1145/3508546.3508618)|
+|Variational graph recurrent neural networks|2019|Neurips (A*)|Hajiramazanali et al.|[link](https://proceedings.neurips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)|
+|Grae: Graph recurrent autoencoder for multi-view graph clustering|2021|ACAI|Cai et al.|[link](https://dl.acm.org/doi/10.1145/3508546.3508618)|
 
 
 
@@ -66,3 +66,12 @@ We categorized the state of the art into four groups: Graph Recurrent Networks (
 |How attentive are graph attention networks? |2021|Arxiv|Body et al.|[link](https://arxiv.org/abs/2105.14491)|
 |Multi-view graph attention networks |2020|Neural Networks (Q1)|Xie et al.|[link](https://linkinghub.elsevier.com/retrieve/pii/S0893608020303105)|
 | Conditional graph attention networks for distilling and refining knowledge graphs in recommendation |2021|CIKM (A)|Tu et al.|[link](https://dl.acm.org/doi/10.1145/3459637.3482331)|
+
+## Graph Reinforcement Learning (GRL)
+|  Title   | Year| Venue (Rank) | Authors | Link |
+|  ----    | ----  | ----   | ----   |    ----|
+|Netgist: Learning to generate task-based network summaries|2018|ICDM (A*)|Amiri et al.|[link](https://ieeexplore.ieee.org/document/8594910)|
+|Netreact: Interactive learning for network summarization|2020|Arxiv|Amiri et al.|[link](https://arxiv.org/abs/2012.11821)|
+|Sparrl: Graph sparsification via deep reinforcement learning|2021|Arxiv|Wickman et al.|[link](https://arxiv.org/abs/2112.01565)|
+
+
