@@ -10,7 +10,7 @@ We categorized the state of the art into four groups: Graph Recurrent Networks (
 ## Graph Recurrent Neural Networks (GRNs)
 ### LSTM-based Approaches
 |  Title   | Year| Venue (Rank)| Authors | Link |
-|  ----    | ----  | ----   | ----   ----| 
+|  ----    | ----  | ----   | ---- |  ----| 
 |Improving Question Answering over Knowledge Graphs Using Graph Summarization| 2021 | ICONIP (A) |Li et al. | [link](https://dl.acm.org/doi/abs/10.1007/978-3-030-92273-3_40)|
 | Learning Graph Representations with Recurrent Neural Network Autoencoders | 2018 | KDD (A*) | Taheri et al. | [link](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_27.pdf)|
 |Dynamic representation learning via recurrent graph neural networks | 2022 | IEEE Transactions on Systems, Man, and Cybernetics: Systems (Q1)| Zhang et al. | [link](https://ieeexplore.ieee.org/document/9858109)|
