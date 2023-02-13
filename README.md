@@ -1,5 +1,5 @@
 # Graph Neural Networks (GNNs) for Graph Summarization
-Here we provide more details about the papers we have cited in each section of the survey (Submitted for the IJCAI Conferece 2023). 
+Here we provide more details about the papers we have cited in each section of the survey.
 
 We categorized the state of the art into four groups: Graph Recurrent Networks (GRNs), Graph Convolutional Networks (GCNs), Graph Auto-encoders (GAEs), and Graph Attention Networks (GATs).
 
@@ -73,5 +73,6 @@ We categorized the state of the art into four groups: Graph Recurrent Networks (
 |Netgist: Learning to generate task-based network summaries|2018|ICDM (A*)|Amiri et al.|[link](https://ieeexplore.ieee.org/document/8594910)|
 |Netreact: Interactive learning for network summarization|2020|Arxiv|Amiri et al.|[link](https://arxiv.org/abs/2012.11821)|
 |Sparrl: Graph sparsification via deep reinforcement learning|2021|Arxiv|Wickman et al.|[link](https://arxiv.org/abs/2112.01565)|
+|A spatially explicit reinforcement learning model for geographic knowledge graph summarization|2019|Transactions in GIS (Q2)|Yan et al.|[link](https://doi.org/10.1111/tgis.12547)|
 
 
